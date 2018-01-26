@@ -52,6 +52,16 @@ text-align:center;
   max-width: 100%;
   width: 592px;
   height: 313;
+  border-radius: 10px;
+}
+
+#body img {
+  display: block;
+  margin: auto;
+  max-width: 100%;
+  width: 592px;
+  height: 313;
+  border-radius: 10px;
 }
 
 /* -- Section end --*/
@@ -74,3 +84,15 @@ text-align:center;
 }
 
 /* -- Google Map end --*/
+/* -- Nightlife Content start --*/
+#nightlife1 img {
+  float: right;
+  width: 300px;
+  height: 150;
+}
+#nightlife2 img {
+  float: left;
+  width: 300px;
+  height: 150;
+}
+/* -- Nightlife Content end--*/
